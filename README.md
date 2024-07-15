@@ -2,6 +2,8 @@
 
 Esse projeto foi feito apenas para estudo do criador. Ele usa Next.JS, Reack Hook Form, ShadCN UI, entre outras dependências para criação de um componente DateTime Picker para ser usado em formulários onde essas informações serão usadas.
 
+### [Live demo](https://hookform-datetime-picker.vercel.app/)
+
 ## Quick start
 
 Instale as dependências:
